@@ -1,0 +1,52 @@
+D:\ПроектыКЯР\ЛР4\Lab4\Lab4\bin\Debug\netcoreapp3.1\Lab4.exe
+D:\ПроектыКЯР\ЛР4\Lab4\Lab4\bin\Debug\netcoreapp3.1\Lab4.deps.json
+D:\ПроектыКЯР\ЛР4\Lab4\Lab4\bin\Debug\netcoreapp3.1\Lab4.runtimeconfig.json
+D:\ПроектыКЯР\ЛР4\Lab4\Lab4\bin\Debug\netcoreapp3.1\Lab4.runtimeconfig.dev.json
+D:\ПроектыКЯР\ЛР4\Lab4\Lab4\bin\Debug\netcoreapp3.1\Lab4.dll
+D:\ПроектыКЯР\ЛР4\Lab4\Lab4\bin\Debug\netcoreapp3.1\Lab4.pdb
+D:\ПроектыКЯР\ЛР4\Lab4\Lab4\obj\Debug\netcoreapp3.1\Lab4.csprojAssemblyReference.cache
+D:\ПроектыКЯР\ЛР4\Lab4\Lab4\obj\Debug\netcoreapp3.1\Lab4.AssemblyInfoInputs.cache
+D:\ПроектыКЯР\ЛР4\Lab4\Lab4\obj\Debug\netcoreapp3.1\Lab4.AssemblyInfo.cs
+D:\ПроектыКЯР\ЛР4\Lab4\Lab4\obj\Debug\netcoreapp3.1\Lab4.csproj.CoreCompileInputs.cache
+D:\ПроектыКЯР\ЛР4\Lab4\Lab4\obj\Debug\netcoreapp3.1\Lab4.dll
+D:\ПроектыКЯР\ЛР4\Lab4\Lab4\obj\Debug\netcoreapp3.1\Lab4.pdb
+D:\ПроектыКЯР\ЛР4\Lab4\Lab4\obj\Debug\netcoreapp3.1\Lab4.genruntimeconfig.cache
+D:\ПроектыКЯР\ООП\ЛАБЫ\ЛР4\Lab4\Lab4\bin\Debug\netcoreapp3.1\Lab4.exe
+D:\ПроектыКЯР\ООП\ЛАБЫ\ЛР4\Lab4\Lab4\bin\Debug\netcoreapp3.1\Lab4.deps.json
+D:\ПроектыКЯР\ООП\ЛАБЫ\ЛР4\Lab4\Lab4\bin\Debug\netcoreapp3.1\Lab4.runtimeconfig.json
+D:\ПроектыКЯР\ООП\ЛАБЫ\ЛР4\Lab4\Lab4\bin\Debug\netcoreapp3.1\Lab4.runtimeconfig.dev.json
+D:\ПроектыКЯР\ООП\ЛАБЫ\ЛР4\Lab4\Lab4\bin\Debug\netcoreapp3.1\Lab4.dll
+D:\ПроектыКЯР\ООП\ЛАБЫ\ЛР4\Lab4\Lab4\bin\Debug\netcoreapp3.1\Lab4.pdb
+D:\ПроектыКЯР\ООП\ЛАБЫ\ЛР4\Lab4\Lab4\obj\Debug\netcoreapp3.1\Lab4.csprojAssemblyReference.cache
+D:\ПроектыКЯР\ООП\ЛАБЫ\ЛР4\Lab4\Lab4\obj\Debug\netcoreapp3.1\Lab4.AssemblyInfoInputs.cache
+D:\ПроектыКЯР\ООП\ЛАБЫ\ЛР4\Lab4\Lab4\obj\Debug\netcoreapp3.1\Lab4.AssemblyInfo.cs
+D:\ПроектыКЯР\ООП\ЛАБЫ\ЛР4\Lab4\Lab4\obj\Debug\netcoreapp3.1\Lab4.csproj.CoreCompileInputs.cache
+D:\ПроектыКЯР\ООП\ЛАБЫ\ЛР4\Lab4\Lab4\obj\Debug\netcoreapp3.1\Lab4.dll
+D:\ПроектыКЯР\ООП\ЛАБЫ\ЛР4\Lab4\Lab4\obj\Debug\netcoreapp3.1\Lab4.pdb
+D:\ПроектыКЯР\ООП\ЛАБЫ\ЛР4\Lab4\Lab4\obj\Debug\netcoreapp3.1\Lab4.genruntimeconfig.cache
+D:\Лабы ООП\Lab4\Lab4\bin\Debug\netcoreapp3.1\Lab4.exe
+D:\Лабы ООП\Lab4\Lab4\bin\Debug\netcoreapp3.1\Lab4.deps.json
+D:\Лабы ООП\Lab4\Lab4\bin\Debug\netcoreapp3.1\Lab4.runtimeconfig.json
+D:\Лабы ООП\Lab4\Lab4\bin\Debug\netcoreapp3.1\Lab4.runtimeconfig.dev.json
+D:\Лабы ООП\Lab4\Lab4\bin\Debug\netcoreapp3.1\Lab4.dll
+D:\Лабы ООП\Lab4\Lab4\bin\Debug\netcoreapp3.1\Lab4.pdb
+D:\Лабы ООП\Lab4\Lab4\obj\Debug\netcoreapp3.1\Lab4.csprojAssemblyReference.cache
+D:\Лабы ООП\Lab4\Lab4\obj\Debug\netcoreapp3.1\Lab4.AssemblyInfoInputs.cache
+D:\Лабы ООП\Lab4\Lab4\obj\Debug\netcoreapp3.1\Lab4.AssemblyInfo.cs
+D:\Лабы ООП\Lab4\Lab4\obj\Debug\netcoreapp3.1\Lab4.csproj.CoreCompileInputs.cache
+D:\Лабы ООП\Lab4\Lab4\obj\Debug\netcoreapp3.1\Lab4.dll
+D:\Лабы ООП\Lab4\Lab4\obj\Debug\netcoreapp3.1\Lab4.pdb
+D:\Лабы ООП\Lab4\Lab4\obj\Debug\netcoreapp3.1\Lab4.genruntimeconfig.cache
+E:\Лабы ООП\Lab4\Lab4\bin\Debug\netcoreapp3.1\Lab4.exe
+E:\Лабы ООП\Lab4\Lab4\bin\Debug\netcoreapp3.1\Lab4.deps.json
+E:\Лабы ООП\Lab4\Lab4\bin\Debug\netcoreapp3.1\Lab4.runtimeconfig.json
+E:\Лабы ООП\Lab4\Lab4\bin\Debug\netcoreapp3.1\Lab4.runtimeconfig.dev.json
+E:\Лабы ООП\Lab4\Lab4\bin\Debug\netcoreapp3.1\Lab4.dll
+E:\Лабы ООП\Lab4\Lab4\bin\Debug\netcoreapp3.1\Lab4.pdb
+E:\Лабы ООП\Lab4\Lab4\obj\Debug\netcoreapp3.1\Lab4.csprojAssemblyReference.cache
+E:\Лабы ООП\Lab4\Lab4\obj\Debug\netcoreapp3.1\Lab4.AssemblyInfoInputs.cache
+E:\Лабы ООП\Lab4\Lab4\obj\Debug\netcoreapp3.1\Lab4.AssemblyInfo.cs
+E:\Лабы ООП\Lab4\Lab4\obj\Debug\netcoreapp3.1\Lab4.csproj.CoreCompileInputs.cache
+E:\Лабы ООП\Lab4\Lab4\obj\Debug\netcoreapp3.1\Lab4.dll
+E:\Лабы ООП\Lab4\Lab4\obj\Debug\netcoreapp3.1\Lab4.pdb
+E:\Лабы ООП\Lab4\Lab4\obj\Debug\netcoreapp3.1\Lab4.genruntimeconfig.cache

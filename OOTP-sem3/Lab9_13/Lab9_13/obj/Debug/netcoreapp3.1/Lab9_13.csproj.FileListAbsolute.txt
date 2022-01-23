@@ -1,0 +1,26 @@
+D:\ПроектыКЯР\ООП\ЛАБЫ\Lab9_13\Lab9_13\bin\Debug\netcoreapp3.1\Lab9_13.exe
+D:\ПроектыКЯР\ООП\ЛАБЫ\Lab9_13\Lab9_13\bin\Debug\netcoreapp3.1\Lab9_13.deps.json
+D:\ПроектыКЯР\ООП\ЛАБЫ\Lab9_13\Lab9_13\bin\Debug\netcoreapp3.1\Lab9_13.runtimeconfig.json
+D:\ПроектыКЯР\ООП\ЛАБЫ\Lab9_13\Lab9_13\bin\Debug\netcoreapp3.1\Lab9_13.runtimeconfig.dev.json
+D:\ПроектыКЯР\ООП\ЛАБЫ\Lab9_13\Lab9_13\bin\Debug\netcoreapp3.1\Lab9_13.dll
+D:\ПроектыКЯР\ООП\ЛАБЫ\Lab9_13\Lab9_13\bin\Debug\netcoreapp3.1\Lab9_13.pdb
+D:\ПроектыКЯР\ООП\ЛАБЫ\Lab9_13\Lab9_13\obj\Debug\netcoreapp3.1\Lab9_13.csprojAssemblyReference.cache
+D:\ПроектыКЯР\ООП\ЛАБЫ\Lab9_13\Lab9_13\obj\Debug\netcoreapp3.1\Lab9_13.AssemblyInfoInputs.cache
+D:\ПроектыКЯР\ООП\ЛАБЫ\Lab9_13\Lab9_13\obj\Debug\netcoreapp3.1\Lab9_13.AssemblyInfo.cs
+D:\ПроектыКЯР\ООП\ЛАБЫ\Lab9_13\Lab9_13\obj\Debug\netcoreapp3.1\Lab9_13.csproj.CoreCompileInputs.cache
+D:\ПроектыКЯР\ООП\ЛАБЫ\Lab9_13\Lab9_13\obj\Debug\netcoreapp3.1\Lab9_13.dll
+D:\ПроектыКЯР\ООП\ЛАБЫ\Lab9_13\Lab9_13\obj\Debug\netcoreapp3.1\Lab9_13.pdb
+D:\ПроектыКЯР\ООП\ЛАБЫ\Lab9_13\Lab9_13\obj\Debug\netcoreapp3.1\Lab9_13.genruntimeconfig.cache
+D:\Лабы ООП\Lab9_13\Lab9_13\bin\Debug\netcoreapp3.1\Lab9_13.exe
+D:\Лабы ООП\Lab9_13\Lab9_13\bin\Debug\netcoreapp3.1\Lab9_13.deps.json
+D:\Лабы ООП\Lab9_13\Lab9_13\bin\Debug\netcoreapp3.1\Lab9_13.runtimeconfig.json
+D:\Лабы ООП\Lab9_13\Lab9_13\bin\Debug\netcoreapp3.1\Lab9_13.runtimeconfig.dev.json
+D:\Лабы ООП\Lab9_13\Lab9_13\bin\Debug\netcoreapp3.1\Lab9_13.dll
+D:\Лабы ООП\Lab9_13\Lab9_13\bin\Debug\netcoreapp3.1\Lab9_13.pdb
+D:\Лабы ООП\Lab9_13\Lab9_13\obj\Debug\netcoreapp3.1\Lab9_13.csprojAssemblyReference.cache
+D:\Лабы ООП\Lab9_13\Lab9_13\obj\Debug\netcoreapp3.1\Lab9_13.AssemblyInfoInputs.cache
+D:\Лабы ООП\Lab9_13\Lab9_13\obj\Debug\netcoreapp3.1\Lab9_13.AssemblyInfo.cs
+D:\Лабы ООП\Lab9_13\Lab9_13\obj\Debug\netcoreapp3.1\Lab9_13.csproj.CoreCompileInputs.cache
+D:\Лабы ООП\Lab9_13\Lab9_13\obj\Debug\netcoreapp3.1\Lab9_13.dll
+D:\Лабы ООП\Lab9_13\Lab9_13\obj\Debug\netcoreapp3.1\Lab9_13.pdb
+D:\Лабы ООП\Lab9_13\Lab9_13\obj\Debug\netcoreapp3.1\Lab9_13.genruntimeconfig.cache

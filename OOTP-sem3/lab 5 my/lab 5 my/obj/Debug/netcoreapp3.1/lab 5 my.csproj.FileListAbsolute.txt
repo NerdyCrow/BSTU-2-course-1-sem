@@ -1,0 +1,26 @@
+D:\Лабы ООП\lab 5 my\lab 5 my\bin\Debug\netcoreapp3.1\lab 5 my.exe
+D:\Лабы ООП\lab 5 my\lab 5 my\bin\Debug\netcoreapp3.1\lab 5 my.deps.json
+D:\Лабы ООП\lab 5 my\lab 5 my\bin\Debug\netcoreapp3.1\lab 5 my.runtimeconfig.json
+D:\Лабы ООП\lab 5 my\lab 5 my\bin\Debug\netcoreapp3.1\lab 5 my.runtimeconfig.dev.json
+D:\Лабы ООП\lab 5 my\lab 5 my\bin\Debug\netcoreapp3.1\lab 5 my.dll
+D:\Лабы ООП\lab 5 my\lab 5 my\bin\Debug\netcoreapp3.1\lab 5 my.pdb
+D:\Лабы ООП\lab 5 my\lab 5 my\obj\Debug\netcoreapp3.1\lab 5 my.csprojAssemblyReference.cache
+D:\Лабы ООП\lab 5 my\lab 5 my\obj\Debug\netcoreapp3.1\lab 5 my.AssemblyInfoInputs.cache
+D:\Лабы ООП\lab 5 my\lab 5 my\obj\Debug\netcoreapp3.1\lab 5 my.AssemblyInfo.cs
+D:\Лабы ООП\lab 5 my\lab 5 my\obj\Debug\netcoreapp3.1\lab 5 my.csproj.CoreCompileInputs.cache
+D:\Лабы ООП\lab 5 my\lab 5 my\obj\Debug\netcoreapp3.1\lab 5 my.dll
+D:\Лабы ООП\lab 5 my\lab 5 my\obj\Debug\netcoreapp3.1\lab 5 my.pdb
+D:\Лабы ООП\lab 5 my\lab 5 my\obj\Debug\netcoreapp3.1\lab 5 my.genruntimeconfig.cache
+F:\lab 5 my\lab 5 my\obj\Debug\netcoreapp3.1\lab 5 my.csprojAssemblyReference.cache
+F:\lab 5 my\lab 5 my\obj\Debug\netcoreapp3.1\lab 5 my.AssemblyInfoInputs.cache
+F:\lab 5 my\lab 5 my\obj\Debug\netcoreapp3.1\lab 5 my.AssemblyInfo.cs
+F:\lab 5 my\lab 5 my\obj\Debug\netcoreapp3.1\lab 5 my.csproj.CoreCompileInputs.cache
+F:\lab 5 my\lab 5 my\obj\Debug\netcoreapp3.1\lab 5 my.dll
+F:\lab 5 my\lab 5 my\obj\Debug\netcoreapp3.1\lab 5 my.pdb
+F:\lab 5 my\lab 5 my\bin\Debug\netcoreapp3.1\lab 5 my.exe
+F:\lab 5 my\lab 5 my\bin\Debug\netcoreapp3.1\lab 5 my.deps.json
+F:\lab 5 my\lab 5 my\bin\Debug\netcoreapp3.1\lab 5 my.runtimeconfig.json
+F:\lab 5 my\lab 5 my\bin\Debug\netcoreapp3.1\lab 5 my.runtimeconfig.dev.json
+F:\lab 5 my\lab 5 my\bin\Debug\netcoreapp3.1\lab 5 my.dll
+F:\lab 5 my\lab 5 my\bin\Debug\netcoreapp3.1\lab 5 my.pdb
+F:\lab 5 my\lab 5 my\obj\Debug\netcoreapp3.1\lab 5 my.genruntimeconfig.cache

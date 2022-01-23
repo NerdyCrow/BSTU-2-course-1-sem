@@ -1,0 +1,26 @@
+D:\ПроектыКЯР\ООП\ЛАБЫ\Lab12\Lab12\bin\Debug\netcoreapp3.1\Lab12.exe
+D:\ПроектыКЯР\ООП\ЛАБЫ\Lab12\Lab12\bin\Debug\netcoreapp3.1\Lab12.deps.json
+D:\ПроектыКЯР\ООП\ЛАБЫ\Lab12\Lab12\bin\Debug\netcoreapp3.1\Lab12.runtimeconfig.json
+D:\ПроектыКЯР\ООП\ЛАБЫ\Lab12\Lab12\bin\Debug\netcoreapp3.1\Lab12.runtimeconfig.dev.json
+D:\ПроектыКЯР\ООП\ЛАБЫ\Lab12\Lab12\bin\Debug\netcoreapp3.1\Lab12.dll
+D:\ПроектыКЯР\ООП\ЛАБЫ\Lab12\Lab12\bin\Debug\netcoreapp3.1\Lab12.pdb
+D:\ПроектыКЯР\ООП\ЛАБЫ\Lab12\Lab12\obj\Debug\netcoreapp3.1\Lab12.csprojAssemblyReference.cache
+D:\ПроектыКЯР\ООП\ЛАБЫ\Lab12\Lab12\obj\Debug\netcoreapp3.1\Lab12.AssemblyInfoInputs.cache
+D:\ПроектыКЯР\ООП\ЛАБЫ\Lab12\Lab12\obj\Debug\netcoreapp3.1\Lab12.AssemblyInfo.cs
+D:\ПроектыКЯР\ООП\ЛАБЫ\Lab12\Lab12\obj\Debug\netcoreapp3.1\Lab12.csproj.CoreCompileInputs.cache
+D:\ПроектыКЯР\ООП\ЛАБЫ\Lab12\Lab12\obj\Debug\netcoreapp3.1\Lab12.dll
+D:\ПроектыКЯР\ООП\ЛАБЫ\Lab12\Lab12\obj\Debug\netcoreapp3.1\Lab12.pdb
+D:\ПроектыКЯР\ООП\ЛАБЫ\Lab12\Lab12\obj\Debug\netcoreapp3.1\Lab12.genruntimeconfig.cache
+D:\Лабы ООП\Lab12\Lab12\bin\Debug\netcoreapp3.1\Lab12.exe
+D:\Лабы ООП\Lab12\Lab12\bin\Debug\netcoreapp3.1\Lab12.deps.json
+D:\Лабы ООП\Lab12\Lab12\bin\Debug\netcoreapp3.1\Lab12.runtimeconfig.json
+D:\Лабы ООП\Lab12\Lab12\bin\Debug\netcoreapp3.1\Lab12.runtimeconfig.dev.json
+D:\Лабы ООП\Lab12\Lab12\bin\Debug\netcoreapp3.1\Lab12.dll
+D:\Лабы ООП\Lab12\Lab12\bin\Debug\netcoreapp3.1\Lab12.pdb
+D:\Лабы ООП\Lab12\Lab12\obj\Debug\netcoreapp3.1\Lab12.csprojAssemblyReference.cache
+D:\Лабы ООП\Lab12\Lab12\obj\Debug\netcoreapp3.1\Lab12.AssemblyInfoInputs.cache
+D:\Лабы ООП\Lab12\Lab12\obj\Debug\netcoreapp3.1\Lab12.AssemblyInfo.cs
+D:\Лабы ООП\Lab12\Lab12\obj\Debug\netcoreapp3.1\Lab12.csproj.CoreCompileInputs.cache
+D:\Лабы ООП\Lab12\Lab12\obj\Debug\netcoreapp3.1\Lab12.dll
+D:\Лабы ООП\Lab12\Lab12\obj\Debug\netcoreapp3.1\Lab12.pdb
+D:\Лабы ООП\Lab12\Lab12\obj\Debug\netcoreapp3.1\Lab12.genruntimeconfig.cache

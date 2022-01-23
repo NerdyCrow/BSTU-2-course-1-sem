@@ -1,0 +1,26 @@
+D:\ПроектыКЯР\ООП\ЛАБЫ\Lab11\Lab11\bin\Debug\netcoreapp3.1\Lab11.exe
+D:\ПроектыКЯР\ООП\ЛАБЫ\Lab11\Lab11\bin\Debug\netcoreapp3.1\Lab11.deps.json
+D:\ПроектыКЯР\ООП\ЛАБЫ\Lab11\Lab11\bin\Debug\netcoreapp3.1\Lab11.runtimeconfig.json
+D:\ПроектыКЯР\ООП\ЛАБЫ\Lab11\Lab11\bin\Debug\netcoreapp3.1\Lab11.runtimeconfig.dev.json
+D:\ПроектыКЯР\ООП\ЛАБЫ\Lab11\Lab11\bin\Debug\netcoreapp3.1\Lab11.dll
+D:\ПроектыКЯР\ООП\ЛАБЫ\Lab11\Lab11\bin\Debug\netcoreapp3.1\Lab11.pdb
+D:\ПроектыКЯР\ООП\ЛАБЫ\Lab11\Lab11\obj\Debug\netcoreapp3.1\Lab11.csprojAssemblyReference.cache
+D:\ПроектыКЯР\ООП\ЛАБЫ\Lab11\Lab11\obj\Debug\netcoreapp3.1\Lab11.AssemblyInfoInputs.cache
+D:\ПроектыКЯР\ООП\ЛАБЫ\Lab11\Lab11\obj\Debug\netcoreapp3.1\Lab11.AssemblyInfo.cs
+D:\ПроектыКЯР\ООП\ЛАБЫ\Lab11\Lab11\obj\Debug\netcoreapp3.1\Lab11.csproj.CoreCompileInputs.cache
+D:\ПроектыКЯР\ООП\ЛАБЫ\Lab11\Lab11\obj\Debug\netcoreapp3.1\Lab11.dll
+D:\ПроектыКЯР\ООП\ЛАБЫ\Lab11\Lab11\obj\Debug\netcoreapp3.1\Lab11.pdb
+D:\ПроектыКЯР\ООП\ЛАБЫ\Lab11\Lab11\obj\Debug\netcoreapp3.1\Lab11.genruntimeconfig.cache
+D:\Лабы ООП\Lab11\Lab11\bin\Debug\netcoreapp3.1\Lab11.exe
+D:\Лабы ООП\Lab11\Lab11\bin\Debug\netcoreapp3.1\Lab11.deps.json
+D:\Лабы ООП\Lab11\Lab11\bin\Debug\netcoreapp3.1\Lab11.runtimeconfig.json
+D:\Лабы ООП\Lab11\Lab11\bin\Debug\netcoreapp3.1\Lab11.runtimeconfig.dev.json
+D:\Лабы ООП\Lab11\Lab11\bin\Debug\netcoreapp3.1\Lab11.dll
+D:\Лабы ООП\Lab11\Lab11\bin\Debug\netcoreapp3.1\Lab11.pdb
+D:\Лабы ООП\Lab11\Lab11\obj\Debug\netcoreapp3.1\Lab11.csprojAssemblyReference.cache
+D:\Лабы ООП\Lab11\Lab11\obj\Debug\netcoreapp3.1\Lab11.AssemblyInfoInputs.cache
+D:\Лабы ООП\Lab11\Lab11\obj\Debug\netcoreapp3.1\Lab11.AssemblyInfo.cs
+D:\Лабы ООП\Lab11\Lab11\obj\Debug\netcoreapp3.1\Lab11.csproj.CoreCompileInputs.cache
+D:\Лабы ООП\Lab11\Lab11\obj\Debug\netcoreapp3.1\Lab11.dll
+D:\Лабы ООП\Lab11\Lab11\obj\Debug\netcoreapp3.1\Lab11.pdb
+D:\Лабы ООП\Lab11\Lab11\obj\Debug\netcoreapp3.1\Lab11.genruntimeconfig.cache

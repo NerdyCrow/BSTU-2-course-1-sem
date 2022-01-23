@@ -1,0 +1,13 @@
+D:\ПроектыКЯР\ООП\ЛАБЫ\Lab15\Lab15\bin\Debug\netcoreapp3.1\Lab15.exe
+D:\ПроектыКЯР\ООП\ЛАБЫ\Lab15\Lab15\bin\Debug\netcoreapp3.1\Lab15.deps.json
+D:\ПроектыКЯР\ООП\ЛАБЫ\Lab15\Lab15\bin\Debug\netcoreapp3.1\Lab15.runtimeconfig.json
+D:\ПроектыКЯР\ООП\ЛАБЫ\Lab15\Lab15\bin\Debug\netcoreapp3.1\Lab15.runtimeconfig.dev.json
+D:\ПроектыКЯР\ООП\ЛАБЫ\Lab15\Lab15\bin\Debug\netcoreapp3.1\Lab15.dll
+D:\ПроектыКЯР\ООП\ЛАБЫ\Lab15\Lab15\bin\Debug\netcoreapp3.1\Lab15.pdb
+D:\ПроектыКЯР\ООП\ЛАБЫ\Lab15\Lab15\obj\Debug\netcoreapp3.1\Lab15.csprojAssemblyReference.cache
+D:\ПроектыКЯР\ООП\ЛАБЫ\Lab15\Lab15\obj\Debug\netcoreapp3.1\Lab15.AssemblyInfoInputs.cache
+D:\ПроектыКЯР\ООП\ЛАБЫ\Lab15\Lab15\obj\Debug\netcoreapp3.1\Lab15.AssemblyInfo.cs
+D:\ПроектыКЯР\ООП\ЛАБЫ\Lab15\Lab15\obj\Debug\netcoreapp3.1\Lab15.csproj.CoreCompileInputs.cache
+D:\ПроектыКЯР\ООП\ЛАБЫ\Lab15\Lab15\obj\Debug\netcoreapp3.1\Lab15.dll
+D:\ПроектыКЯР\ООП\ЛАБЫ\Lab15\Lab15\obj\Debug\netcoreapp3.1\Lab15.pdb
+D:\ПроектыКЯР\ООП\ЛАБЫ\Lab15\Lab15\obj\Debug\netcoreapp3.1\Lab15.genruntimeconfig.cache

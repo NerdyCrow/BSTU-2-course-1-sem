@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<ArrayOfFootballer xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Footballer>
+    <Name>Neymar</Name>
+    <Age>35</Age>
+    <Club>
+      <Name>PSG</Name>
+    </Club>
+  </Footballer>
+  <Footballer>
+    <Name>Ibrahimović</Name>
+    <Age>40</Age>
+    <Club>
+      <Name>Milan</Name>
+    </Club>
+  </Footballer>
+</ArrayOfFootballer>

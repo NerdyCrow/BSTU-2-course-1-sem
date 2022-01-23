@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<Student xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NumOfStudentCard>63726</NumOfStudentCard>
+  <FIO>zz</FIO>
+  <Course>2</Course>
+  <Age>19</Age>
+</Student>

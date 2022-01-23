@@ -1,0 +1,13 @@
+D:\Лабы ООП\Controsha\Controsha\obj\Debug\netcoreapp3.1\Controsha.csprojAssemblyReference.cache
+D:\Лабы ООП\Controsha\Controsha\obj\Debug\netcoreapp3.1\Controsha.AssemblyInfoInputs.cache
+D:\Лабы ООП\Controsha\Controsha\obj\Debug\netcoreapp3.1\Controsha.AssemblyInfo.cs
+D:\Лабы ООП\Controsha\Controsha\obj\Debug\netcoreapp3.1\Controsha.csproj.CoreCompileInputs.cache
+D:\Лабы ООП\Controsha\Controsha\bin\Debug\netcoreapp3.1\Controsha.exe
+D:\Лабы ООП\Controsha\Controsha\bin\Debug\netcoreapp3.1\Controsha.deps.json
+D:\Лабы ООП\Controsha\Controsha\bin\Debug\netcoreapp3.1\Controsha.runtimeconfig.json
+D:\Лабы ООП\Controsha\Controsha\bin\Debug\netcoreapp3.1\Controsha.runtimeconfig.dev.json
+D:\Лабы ООП\Controsha\Controsha\bin\Debug\netcoreapp3.1\Controsha.dll
+D:\Лабы ООП\Controsha\Controsha\bin\Debug\netcoreapp3.1\Controsha.pdb
+D:\Лабы ООП\Controsha\Controsha\obj\Debug\netcoreapp3.1\Controsha.dll
+D:\Лабы ООП\Controsha\Controsha\obj\Debug\netcoreapp3.1\Controsha.pdb
+D:\Лабы ООП\Controsha\Controsha\obj\Debug\netcoreapp3.1\Controsha.genruntimeconfig.cache

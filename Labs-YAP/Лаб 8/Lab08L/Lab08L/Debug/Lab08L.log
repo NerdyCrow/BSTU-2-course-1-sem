@@ -1,0 +1,36 @@
+﻿Сборка начата 02.05.2021 21:12:41.
+Уровень детализации журнала: Normal.     1>Проект "D:\Лабы ЯП\Лаб 8\Lab08L\Lab08L\Lab08L.vcxproj" в узле 2 (целевые объекты Build).
+     1>InitializeBuildStatus:
+         Создание "Debug\Lab08L.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.27.29110\bin\HostX86\x86\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D TEST_DICTIONARY /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /permissive- /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\Lab08L.pdb" /Gd /TP /analyze- /FC /errorReport:prompt Lab08L.cpp
+         Lab08L.cpp
+     1>D:\Лабы ЯП\Лаб 8\Lab08L\Lab08L\Lab08L.cpp(53,24): warning C4018: <: несоответствие типов со знаком и без знака
+     1>D:\Лабы ЯП\Лаб 8\Lab08L\Lab08L\Lab08L.cpp(67,24): warning C4018: <: несоответствие типов со знаком и без знака
+     1>D:\Лабы ЯП\Лаб 8\Lab08L\Lab08L\Lab08L.cpp(78,24): warning C4018: <: несоответствие типов со знаком и без знака
+     1>D:\Лабы ЯП\Лаб 8\Lab08L\Lab08L\Lab08L.cpp(83,24): warning C4018: <: несоответствие типов со знаком и без знака
+     1>D:\Лабы ЯП\Лаб 8\Lab08L\Lab08L\Lab08L.cpp(72): warning C4715: Dictionary::GetEntry: значение возвращается не при всех путях выполнения
+       Lib:
+         D:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.27.29110\bin\HostX86\x86\Lib.exe /OUT:"D:\Лабы ЯП\Лаб 8\Lab08L\Debug\Lab08L.lib" /NOLOGO /MACHINE:X86 Debug\Lab08L.obj
+         Lab08L.vcxproj -> D:\Лабы ЯП\Лаб 8\Lab08L\Debug\Lab08L.lib
+       CopyFilesToOutputDirectory:
+         Копирование файла из "D:\Лабы ЯП\Лаб 8\Lab08L\Lab08L\Debug\Lab08L.pdb" в "D:\Лабы ЯП\Лаб 8\Lab08L\Debug\Lab08L.pdb".
+       FinalizeBuildStatus:
+         Файл "Debug\Lab08L.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "Debug\Lab08L.tlog\Lab08L.lastbuildstate".
+     1>Сборка проекта "D:\Лабы ЯП\Лаб 8\Lab08L\Lab08L\Lab08L.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+       "D:\Лабы ЯП\Лаб 8\Lab08L\Lab08L\Lab08L.vcxproj" (целевой объект Build ) (1) ->
+       (Целевой объект ClCompile) -> 
+         D:\Лабы ЯП\Лаб 8\Lab08L\Lab08L\Lab08L.cpp(53,24): warning C4018: <: несоответствие типов со знаком и без знака
+         D:\Лабы ЯП\Лаб 8\Lab08L\Lab08L\Lab08L.cpp(67,24): warning C4018: <: несоответствие типов со знаком и без знака
+         D:\Лабы ЯП\Лаб 8\Lab08L\Lab08L\Lab08L.cpp(78,24): warning C4018: <: несоответствие типов со знаком и без знака
+         D:\Лабы ЯП\Лаб 8\Lab08L\Lab08L\Lab08L.cpp(83,24): warning C4018: <: несоответствие типов со знаком и без знака
+         D:\Лабы ЯП\Лаб 8\Lab08L\Lab08L\Lab08L.cpp(72): warning C4715: Dictionary::GetEntry: значение возвращается не при всех путях выполнения
+
+    Предупреждений: 5
+    Ошибок: 0
+
+Прошло времени 00:00:03.10

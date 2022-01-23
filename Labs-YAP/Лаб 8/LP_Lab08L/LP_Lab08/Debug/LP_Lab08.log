@@ -1,0 +1,7 @@
+﻿  LP_Lab08.cpp
+D:\Лабы ЯП\Лаб 8\LP_Lab08L\LP_Lab08\LP_Lab08.cpp(52,24): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Лабы ЯП\Лаб 8\LP_Lab08L\LP_Lab08\LP_Lab08.cpp(66,24): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Лабы ЯП\Лаб 8\LP_Lab08L\LP_Lab08\LP_Lab08.cpp(77,24): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Лабы ЯП\Лаб 8\LP_Lab08L\LP_Lab08\LP_Lab08.cpp(82,24): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Лабы ЯП\Лаб 8\LP_Lab08L\LP_Lab08\LP_Lab08.cpp(71): warning C4715: Dictionary::GetEntry: значение возвращается не при всех путях выполнения
+  LP_Lab08.vcxproj -> D:\Лабы ЯП\Лаб 8\LP_Lab08L\Debug\LP_Lab08.lib

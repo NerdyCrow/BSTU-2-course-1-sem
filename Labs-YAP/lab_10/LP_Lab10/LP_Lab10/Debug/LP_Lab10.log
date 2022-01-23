@@ -1,0 +1,24 @@
+﻿Сборка начата 03.06.2021 9:51:01.
+Уровень детализации журнала: Normal.     1>Проект "D:\Лабы ЯП\lab_10\LP_Lab10\LP_Lab10\LP_Lab10.vcxproj" в узле 2 (целевые объекты Build).
+     1>InitializeBuildStatus:
+         Обращение к "Debug\LP_Lab10.tlog\unsuccessfulbuild".
+       ClCompile:
+         d:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.27.29110\bin\HostX86\x86\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /Oy- /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /permissive- /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc142.pdb" /Gd /TP /analyze- /FC /errorReport:prompt LP_Lab10.cpp
+         LP_Lab10.cpp
+       Link:
+         d:\Program Files (x86)\Microsoft Visual Studio\2019\Professional\VC\Tools\MSVC\14.27.29110\bin\HostX86\x86\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Лабы ЯП\lab_10\LP_Lab10\Debug\LP_Lab10.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG:FASTLINK /PDB:"D:\Лабы ЯП\lab_10\LP_Lab10\Debug\LP_Lab10.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Лабы ЯП\lab_10\LP_Lab10\Debug\LP_Lab10.lib" /MACHINE:X86 Debug\Error.obj
+         Debug\In.obj
+         Debug\Log.obj
+         Debug\LP_Lab10.obj
+         Debug\Parm.obj
+         LP_Lab10.vcxproj -> D:\Лабы ЯП\lab_10\LP_Lab10\Debug\LP_Lab10.exe
+       FinalizeBuildStatus:
+         Файл "Debug\LP_Lab10.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "Debug\LP_Lab10.tlog\LP_Lab10.lastbuildstate".
+     1>Сборка проекта "D:\Лабы ЯП\lab_10\LP_Lab10\LP_Lab10\LP_Lab10.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+    Предупреждений: 0
+    Ошибок: 0
+
+Прошло времени 00:00:02.25

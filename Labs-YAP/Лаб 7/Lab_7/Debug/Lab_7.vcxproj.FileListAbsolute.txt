@@ -1,0 +1,6 @@
+E:\ЯП\Lab_7\Debug\Lab_7.exe
+E:\ЯП\Lab_7\Debug\Lab_7.pdb
+E:\Lab_7\Debug\Lab_7.exe
+E:\Lab_7\Debug\Lab_7.pdb
+D:\Лабы ЯП\Лаб 7\Lab_7\Debug\Lab_7.exe
+D:\Лабы ЯП\Лаб 7\Lab_7\Debug\Lab_7.pdb

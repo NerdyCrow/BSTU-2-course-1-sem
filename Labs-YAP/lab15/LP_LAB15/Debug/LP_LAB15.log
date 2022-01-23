@@ -1,0 +1,18 @@
+﻿  Error.cpp
+  FST.cpp
+E:\ЯП\lab15\LP_LAB15\FST.cpp(63,36): warning C4267: инициализация: преобразование из "size_t" в "short"; возможна потеря данных
+  In.cpp
+  IT.cpp
+  Log.cpp
+  LP_LAB15.cpp
+E:\ЯП\lab15\LP_LAB15\LP_LAB15.cpp(24,22): warning C4101: lt_position: неиспользованная локальная переменная
+  LT.cpp
+  Parm.cpp
+  PN.cpp
+E:\ЯП\lab15\LP_LAB15\PN.cpp(44): error C2102: для "&" требуется левостороннее значение
+  token-division.cpp
+E:\ЯП\lab15\LP_LAB15\token-division.cpp(83,20): warning C4305: =: усечение из "int" в "char"
+E:\ЯП\lab15\LP_LAB15\token-division.cpp(83,16): warning C4309: =: усечение константного значения
+  Создание кода...
+E:\ЯП\lab15\LP_LAB15\LT.cpp(24): warning C4715: LT::LexTable::GetEntry: значение возвращается не при всех путях выполнения
+E:\ЯП\lab15\LP_LAB15\IT.cpp(101): warning C4715: IT::IdTable::GetEntry: значение возвращается не при всех путях выполнения
